@@ -20,3 +20,10 @@
 - Teams can overcompicate their use of epics by viewing them as more than just large user stories.
 - A team creates complex mechanisms to differentiate between epics and user stories, wasting time and effort, when the epic could be simply intended as a placeholder that will be more properly defined when needed.
 - Teams can also try to estimate timelines for epics when they are deliberately vague in nature, this can lead to a lot of uncertainty down the line.
+
+
+## User Story
+
+**In consultation with the product owner, a team may divide up work to be done into functional increments called user stories."
+
+Once a user story is implemented, it is expected to yield some contribution to the value of the overall product, regardless of implementation order
