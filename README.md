@@ -24,6 +24,13 @@
 
 ## User Story
 
-**In consultation with the product owner, a team may divide up work to be done into functional increments called user stories."
+**A user story is a short, simple description of a feature told from the perspective of the user/customer who desires the new capability. In consultation with the product owner, a team may divide up work to be done into functional increments of user stories."**
 
-Once a user story is implemented, it is expected to yield some contribution to the value of the overall product, regardless of implementation order
+Once a user story is implemented, it is expected to yield some contribution to the value of the overall product, regardless of implementation order. They can often be written on index cards/sticky notes and arranged physically to encourage discussion.
+
+### Benefits and Use Cases
+
+- Minimises risks of delayed feedback if the increments are small
+- The product owner has the option to change their mind on schedule priority, allowing for more flexibility.
+- Developers have clear and precise acceptance criteria to work with
+- Promotes a clear separation between defining "what" (product owner) and "how" (development team)
