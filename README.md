@@ -1,4 +1,4 @@
-#Epic and User Stories
+# Epic and User Stories
 
 ## Epic
 
@@ -34,3 +34,4 @@ Once a user story is implemented, it is expected to yield some contribution to t
 - The product owner has the option to change their mind on schedule priority, allowing for more flexibility.
 - Developers have clear and precise acceptance criteria to work with
 - Promotes a clear separation between defining "what" (product owner) and "how" (development team)
+- In an agile environment user stories are clear and easy to organise and implement in a 1-2 week sprint
